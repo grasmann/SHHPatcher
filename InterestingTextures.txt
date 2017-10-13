@@ -1,0 +1,5 @@
+greyspec_s.tga 			7233602 	44990
+smoke23_d 				21651521 	350143
+perlin2dnoise_octaves
+sepsspec_s
+ash01
